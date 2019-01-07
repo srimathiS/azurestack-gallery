@@ -12,7 +12,7 @@
       "value": 3
     },
     "vmImageSku": {
-      "value": "2016-Datacenter"
+      "value": "Core32"
     },
     "vmNodeSize": {
       "value": "Standard_D2_v2"
@@ -72,7 +72,7 @@
       "value": ""
     },
     "scriptBaseUrl": {
-      "value": "https://raw.githubusercontent.com/LingyunSu/AzureStack-QuickStart-Templates/sf_gallery_stable/ServiceFabricGalleryItem/Microsoft.ServiceFabricCluster/DeploymentTemplates/"
+      "value": "https://raw.githubusercontent.com/srimathiS/azurestack-gallery/master/servicefabric/Microsoft.ServiceFabricCluster/DeploymentTemplates/"
     }
   }
 }
